@@ -1,0 +1,14 @@
+[
+  {
+    "id": "validator",
+    "title": "My Validator",
+    "logo": "https://mydapp.example/logo.png",
+    "shortDescription": "Swap, bridge and more",
+    "categories": ["DeFi", "Tools"],
+    "author": "Core Dev Team",
+    "url": "https://dashboard.splendor.org/",
+    "external": false,
+    "internalWallet": true,
+    "priority": 10
+  }
+]

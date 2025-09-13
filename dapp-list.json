@@ -4,7 +4,7 @@
     "title": "My Validator",
     "logo": "https://mydapp.example/logo.png",
     "shortDescription": "Swap, bridge and more",
-    "categories": ["DeFi", "Tools"],
+    "categories": ["Validator", "Tools"],
     "author": "Core Dev Team",
     "url": "https://dashboard.splendor.org/",
     "external": false,
